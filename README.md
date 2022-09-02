@@ -6,12 +6,13 @@
 
 ![](https://komarev.com/ghpvc/?username=jonasht&color=blueviolet&style=flat-square&label=Visitas+ao+perfil)
 ## oi, eu sou jonas teixeira, programador Jr!
+Estudante e Desenvolvedor Python Jr., no momento estou cursando Analise e Desenvolvimento de Sistemas na [Fatec-MM](https://fatecmm.edu.br/index.php), 6º semestre.
 <div align="center">
   <a href="https://github.com/jonasht">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jonasht&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonasht&layout=compact&langs_count=7&theme=dracula"/>
 </div>
-![](https://komarev.com/ghpvc/?username=jonasht&color=blueviolet&style=flat-square&label=Visitas+ao+perfil)
+
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Jonas-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -37,5 +38,6 @@
 
   <a href="https://www.linkedin.com/in/jonasht" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
+  ![Snake animation](https://github.com/jonasht/jonasht/blob/output/github-contribution-grid-snake.svg)
 
 </div>
