@@ -1,3 +1,10 @@
+<table align="center">
+  <tr><td><img src="https://i.imgur.com/0AUV6Hy.png" height="16 align="center"> Ativo (pt-BR) </td>
+  <td><a href="README_us.md"><img src="https://i.imgur.com/Ja6zOUB.png" height="18.5" align="center"> English (en-US) </a></td></tr>
+</table>
+
+
+![](https://komarev.com/ghpvc/?username=RaphaelAnaximenes&color=blueviolet&style=flat-square&label=Visitas+ao+perfil)
 ## oi, eu sou jonas teixeira, programador Jr!
 <div align="center">
   <a href="https://github.com/jonasht">
@@ -30,6 +37,5 @@
 
   <a href="https://www.linkedin.com/in/jonasht" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  <!-- ![Snake animation](https://github.com/jonasht/jonasht/blob/output/github-contribution-grid-snake.svg) -->
- 
+
 </div>
