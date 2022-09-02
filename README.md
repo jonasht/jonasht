@@ -36,4 +36,8 @@ Estudante e Desenvolvedor Python Jr., no momento estou cursando Analise e Desenv
 
 
 
-  <a href="https://www.linkedin.com/in/jonasht" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%23007
+  <a href="https://www.linkedin.com/in/jonasht" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ 
+  ![Snake animation](https://github.com/jonasht/jonasht/blob/output/github-contribution-grid-snake.svg)
+
+</div>
