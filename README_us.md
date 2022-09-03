@@ -1,5 +1,6 @@
 <table align="center">
-  <tr><td><img src="https://i.imgur.com/0AUV6Hy.png" height="16 align="center"> Ativo (pt-BR) </td>
+  <tr><td><img src="https://i.imgur.com/0AUV6Hy.png" height="16 align="center"> <a href="README.md" >Ativo (pt-BR) </a></td>
+
   <td><a href="README_us.md"><img src="https://i.imgur.com/Ja6zOUB.png" height="18.5" align="center"> English (en-US) </a></td></tr>
 </table>
 
