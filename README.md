@@ -9,8 +9,9 @@
 Estudante e Desenvolvedor Python Jr., no momento estou cursando Analise e Desenvolvimento de Sistemas na [Fatec-MM](https://fatecmm.edu.br/index.php), 6º semestre.
 <div align="center">
   <a href="https://github.com/jonasht">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jonasht&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonasht&layout=compact&langs_count=7&theme=dracula"/>
+  <img width="2000px" height="180em" src="https://github-readme-stats.vercel.app/api?username=jonasht&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+
+  <img width="2000px" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonasht&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 
@@ -30,7 +31,7 @@ Estudante e Desenvolvedor Python Jr., no momento estou cursando Analise e Desenv
   
   ##
  
-<div> 
+<div style="display: inline_block" align="center"> 
 
 
 
