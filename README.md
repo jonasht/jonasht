@@ -1,3 +1,4 @@
+
 <table align="center">
   <tr><td><img src="https://i.imgur.com/0AUV6Hy.png" height="16 align="center"> Ativo (pt-BR) </td>
   <td><a href="README_us.md"><img src="https://i.imgur.com/Ja6zOUB.png" height="18.5" align="center"> English (en-US) </a></td></tr>
@@ -31,7 +32,7 @@ Estudante e Desenvolvedor Python Jr., no momento estou cursando Analise e Desenv
   
   ##
  
-<div style="display: inline_block" align="center"> 
+  <div align="left" > 
 
 
 

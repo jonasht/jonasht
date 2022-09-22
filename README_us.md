@@ -29,16 +29,22 @@ I am a Self Learner Python / Django Jr. Developer, student of Analysis and Devel
 
 
 </div>
-  
-  ##
- 
-<div> 
+
+<hr>
+<div align="center"> 
 
 
 
 
 
-  <a href="https://www.linkedin.com/in/jonasht" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
+  <a href="https://www.linkedin.com/in/jonasht" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a><br><a href = "mailto:jhenriquet@outlook.com.br"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
+  </div> 
 
+<div>
+  ![Snake animation](https://github.com/jonasht/jonasht/blob/output/github-contribution-grid-snake.svg)
 </div>
+
+
+
+  
+ 
