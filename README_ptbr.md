@@ -1,7 +1,8 @@
 <table align="center">
-  <td background="green"><a href="README.md"><img src="https://i.imgur.com/Ja6zOUB.png" height="18.5" align="center"> English   (en-US) </a></td></tr>
+<tr>
+  <td background="green"><a href="README.md"><img src="https://i.imgur.com/Ja6zOUB.png" height="18.5" align="center"> English (en-US) </a></td>
 
-  <tr><td><img src="https://i.imgur.com/0AUV6Hy.png" height="16 align="center"> <a href="README_ptbr.md" > >Portugues (pt-BR)< </a></td>
+  <td><img src="https://i.imgur.com/0AUV6Hy.png" height="16 align="center"> <a href="README_ptbr.md" > Portugues (pt-BR) </a></td></tr>
 </table>
 
 
@@ -37,12 +38,13 @@ Eu sou Autodidata em Pthon | Tkinter | Django.
 
 
 
-  <a href="https://www.linkedin.com/in/jonasht" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a><a href = "mailto:jhenriquet@outlook.com.br"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/jonasht" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a><a href = "mailto:jhenriquet@outlook.com.br">
+  <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
   </div> 
 
-<div>
+
   ![Snake animation](https://github.com/jonasht/jonasht/blob/output/github-contribution-grid-snake.svg)
-</div>
+
 
 
 
