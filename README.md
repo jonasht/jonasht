@@ -52,7 +52,7 @@ I'm a Self Learner Python | Tkinter | Django Jr .
   <a href = "mailto:jhenriquet@outlook.com.br"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
   </div> 
 
-![snake gif](https://github.com/jonasht/jonasht/blob/output/github-contribution-grid-snake-dark.svg)
+![snake gif](https://github.com/jonasht/jonasht/blob/output/github-contribution-grid-snake.svg)
 <!-- 
 ![Snake animation](https://github.com/jonasht/jonasht/blob/output/github-contribution-grid-snake.svg) -->
 
