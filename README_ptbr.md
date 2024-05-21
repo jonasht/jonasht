@@ -6,8 +6,8 @@
 
 
 ![](https://komarev.com/ghpvc/?username=jonasht&color=blueviolet&style=flat-square&label=Visitas+ao+perfil)
-## hi, I'm Jonas Teixeira, programmer Jr. Python and other programmig languages!
-I am a Self Learner Python / Django Jr. Developer, student of Analysis and Development Systems at FATEC Artur Azevedo from Mogi Mirim, currently in the 6th semester.
+## olá, eu sou Jonas Teixeira, Programador Jr. Python e outras linguagens de programação!
+Eu sou Autodidata em Pthon | Tkinter | Django.
 
 <div align="center">
   <a href="https://github.com/jonasht">

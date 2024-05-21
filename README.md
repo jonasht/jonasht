@@ -1,18 +1,18 @@
-
 <table align="center">
-  <tr><td><img src="https://i.imgur.com/0AUV6Hy.png" height="16 align="center"> Ativo (pt-BR) </td>
+  <tr><td><img src="https://i.imgur.com/0AUV6Hy.png" height="16 align="center"> <a href="README.md" >Portugues (pt-BR) </a></td>
+
   <td><a href="README_us.md"><img src="https://i.imgur.com/Ja6zOUB.png" height="18.5" align="center"> English (en-US) </a></td></tr>
 </table>
 
 
 ![](https://komarev.com/ghpvc/?username=jonasht&color=blueviolet&style=flat-square&label=Visitas+ao+perfil)
-## oi, eu sou jonas teixeira, programador Jr!
-Estudante e Desenvolvedor Python Jr., no momento estou cursando Analise e Desenvolvimento de Sistemas na [Fatec-MM](https://fatecmm.edu.br/index.php), 6º semestre.
+## hi, I'm Jonas Teixeira, programmer Jr. Python and other programmig languages!
+I'm a Self Learner Python | Tkinter | Django Jr . 
+
 <div align="center">
   <a href="https://github.com/jonasht">
-  <img width="2000px" height="180em" src="https://github-readme-stats.vercel.app/api?username=jonasht&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-
-  <img width="2000px" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonasht&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jonasht&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonasht&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 
@@ -29,16 +29,15 @@ Estudante e Desenvolvedor Python Jr., no momento estou cursando Analise e Desenv
 
 
 </div>
-  
-  ##
- 
-  <div align="left" > 
+
+<hr>
+<div align="center"> 
 
 
 
 
 
-  <a href="https://www.linkedin.com/in/jonasht" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a><a href = "mailto:jhenriquet@outlook.com.br"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/jonasht" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a><br><a href = "mailto:jhenriquet@outlook.com.br"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
   </div> 
 
 <div>
@@ -49,4 +48,3 @@ Estudante e Desenvolvedor Python Jr., no momento estou cursando Analise e Desenv
 
   
  
-
