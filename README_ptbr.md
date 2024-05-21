@@ -1,5 +1,5 @@
 <table align="center">
-  <td bg="green"><a href="README.md"><img src="https://i.imgur.com/Ja6zOUB.png" height="18.5" align="center"> English   (en-US) </a></td></tr>
+  <td background="green"><a href="README.md"><img src="https://i.imgur.com/Ja6zOUB.png" height="18.5" align="center"> English   (en-US) </a></td></tr>
 
   <tr><td><img src="https://i.imgur.com/0AUV6Hy.png" height="16 align="center"> <a href="README_ptbr.md" > >Portugues (pt-BR)< </a></td>
 </table>
